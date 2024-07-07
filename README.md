@@ -10,11 +10,9 @@
 
 ## 直接下载程序
 
-- 身份证构造器Windows版： [idcard_generator_win64.exe](https://github.com/bzsome/idcard_generator/releases/download/v1.1.0/idcard_generator_win64_1.1.0.exe)
+- 身份证构造器Windows版： [idcard_generator_win64.exe](https://github.com/makeboku/lanbing_generator-/releases/download/v1.1.0/idcard_generator_win64_1.1.0.exe)
 
-- 身份证构造器Macos版：[idcard_generator_macos.zip](https://github.com/bzsome/idcard_generator/releases/download/v1.1.0/idcard_generator_macos_1.1.0.zip)
-
-- 注意：macos版本启动大约需要时间70s，测试支持系统Macos 11
+- 注意：启动大约需要时间70s，测试支持系统Macos 11
 
 ## 运行效果图
 
