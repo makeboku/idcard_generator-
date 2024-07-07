@@ -20,10 +20,6 @@
 
 <img src="./docs/images/example_01.png" width="50%" height="50%" alt="程序运行图windows" align="center" />
 
-- 程序主界面（Macos）
-
-<img src="./docs/images/example_macos.png" width="50%" height="50%" alt="程序运行图macos" align="center" />
-
 - 生成结果示例
 
 <img src="./docs/images/result_color.png" width="50%" height="50%" alt="生成结果图" align="center" />
