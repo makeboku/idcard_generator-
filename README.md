@@ -12,7 +12,7 @@
 
 - 身份证构造器Windows版： [idcard_generator_win64.exe](https://github.com/makeboku/lanbing_generator-/releases/download/v1.1.0/idcard_generator_win64_1.1.0.exe)
 
-- 注意：启动大约需要时间70s，测试支持系统Macos 11
+- 注意：启动大约需要时间70s，主要根据电脑配置情况，配置好则启动快、配置慢则启动慢，测试支持系统Macos 11、win10、win11。
 
 ## 运行效果图
 
